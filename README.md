@@ -19,7 +19,7 @@ Please feel free to fork this repository and create your own reading goal :smile
 
 ### Non-Technical
 
-* <img src="raw.githubusercontent.com/danilovaz/MyReadGoal/master/flags/Brazil.png" />
+* <img src="https://github.com/danilovaz/MyReadGoal/blob/master/flags/Brazil.png" />
  [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by [Leonel Caldela](https://twitter.com/leonelcaldela)
 
 
