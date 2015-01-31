@@ -10,7 +10,7 @@ Please feel free to fork this repository and create your own reading goal :smile
 
 * [Reading at the moment](#reading-at-the-moment)
 * [Read in 2015](#read-in-2015)
-* [To Read in 2015](#read-in-2015)
+* [To Read in 2015](#to-read-in-2015)
 
 ----
 ## Reading at the moment
@@ -18,7 +18,9 @@ Please feel free to fork this repository and create your own reading goal :smile
 ### Technical
 
 ### Non-Technical
-* [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by [Leonel Caldela](https://twitter.com/leonelcaldela)
+
+* ![flag](/flags/br.svg)
+ [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by [Leonel Caldela](https://twitter.com/leonelcaldela)
 
 
 ## Read in 2015
