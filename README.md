@@ -7,7 +7,7 @@ I created this repository to share my readings over each year (from 2015) and a 
 If you want to indicate me a book to read, open an issue with the title: "I indicate: Book Name" and in the comments tell me why you indicate me this book and other information.
 
 **Explanations of the flags:**
-*When the flag comes before the name of the book that indicates the language of the book I read. When the flag comes before the author's name that indicates the nationality of the author.*
+*When the flag comes before the name of the book, it indicates the language of the book I read. When the flag comes before the author's name, it indicates the nationality of the author.*
 
 Please feel free to fork this repository and create your own reading goal :smiley:
 
