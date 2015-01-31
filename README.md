@@ -20,16 +20,16 @@ Please feel free to fork this repository and create your own reading goal :smile
 ### Non-Technical
 
 * <img src="https://github.com/danilovaz/MyReadGoal/blob/master/flags/Brazil.png" />
- [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by [Leonel Caldela](https://twitter.com/leonelcaldela)
+ [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by [Leonel Caldela](https://twitter.com/leonelcaldela) ![flag](/flags/Brazil.png)
 
 
 ## Read in 2015
 
 ### Technical
 
-* [Foundation for Sites](http://novatec.com.br/livros/foundation/) - Learn how to create web pages using the most advanced responsive framework of the world by [Maujor](https://twitter.com/maujor)
+* ![flag](/flags/Brazil.png) [Foundation for Sites](http://novatec.com.br/livros/foundation/) - Learn how to create web pages using the most advanced responsive framework of the world by [Maujor](https://twitter.com/maujor) ![flag](/flags/Brazil.png)
 
-* [Meteor](www.casadocodigo.com.br/products/livroa-meteor) - Creating real-time web applications with JavaScript by [Caio Ribeiro Pereira](https://twitter.com/crp_underground)
+* ![flag](/flags/Brazil.png) [Meteor](www.casadocodigo.com.br/products/livroa-meteor) - Creating real-time web applications with JavaScript by [Caio Ribeiro Pereira](https://twitter.com/crp_underground) ![flag](/flags/Brazil.png) 
 
 * [Não me faça pensar](www.buscape.com.br/nao-me-faca-pensar-uma-abordagem-de-bom-senso-a-usabilidade-na-web-2-ed-2008-steve-krug-8576082713.html) - This book seeks to address the usability of the Web with information and practical advice by [Steve Krug](https://twitter.com/skrug)
 
