@@ -20,6 +20,9 @@ Please feel free to fork this repository and create your own reading goal :smile
 
 ### Technical
 
+* ![flag](/flags/Brazil.png)
+[Desenvolvendo com AngularJS]() - Increased productivity with structured web applications by ![flag](/flags/India.png) [Shyam Seshadri]() and ![flag](/flags/United States of America.png) [Brad Green]()
+
 ### Non-Technical
 
 * ![flag](/flags/Brazil.png)
@@ -49,3 +52,12 @@ Please feel free to fork this repository and create your own reading goal :smile
 * ![flag](/flags/Brazil.png) [O Restaurante no Fim do Universo](www.buscape.com.br/o-restaurante-no-fim-do-universo-douglas-adams-8599296582.html) - The Hitchhiker's Guide to the Galaxy Vol.2 by ![flag](/flags/England.png) [Douglas Adams](http://en.wikipedia.org/wiki/Douglas_Adams)
 
 ## To Read in 2015
+
+### Technical
+
+
+## Non-Technical
+
+* ![flag](/flags/Brazil.png) [Dragões de Éter - Caçadores de Bruxas]() - Nova Ether is a world protected by powerful avatars in the form of fairy-Amazons by ![flag](/flags/Brazil.png) [Raphael Draccon]()
+
+* ![flag](/flags/Brazil.png) [Mares de Sangue]() - After a brutal battle in the criminal underworld, the coup Locke Lamora and his faithful companion, Jean Tannen, fleeing his hometown by ![flag](/flags/United States of America.png) [Scott Lynch]()
