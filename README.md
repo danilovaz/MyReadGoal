@@ -61,3 +61,7 @@ Please feel free to fork this repository and create your own reading goal :smile
 * ![flag](/flags/Brazil.png) [Dragões de Éter - Caçadores de Bruxas]() - Nova Ether is a world protected by powerful avatars in the form of fairy-Amazons by ![flag](/flags/Brazil.png) [Raphael Draccon]()
 
 * ![flag](/flags/Brazil.png) [Mares de Sangue]() - After a brutal battle in the criminal underworld, the coup Locke Lamora and his faithful companion, Jean Tannen, fleeing his hometown by ![flag](/flags/United States of America.png) [Scott Lynch]()
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/danilovaz/myreadgoal/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
