@@ -26,7 +26,7 @@ Please feel free to fork this repository and create your own reading goal :smile
 ### Non-Technical
 
 * ![flag](/flags/Brazil.png)
- [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by ![flag](/flags/Brazil.png) [Leonel Caldela](https://twitter.com/leonelcaldela)
+ [Dragões de Éter - Caçadores de Bruxas](http://www.buscape.com.br/dragoes-de-eter-cacadores-de-bruxas-em-portugues-do-brasil-raphael-draccon-8562936332.html) - New Ether is a world protected by powerful avatars in the form of fairy-Amazons. by ![flag](/flags/Brazil.png) [Raphael Draccon](https://twitter.com/raphaeldraccon)
 
 
 ## Read in 2015
@@ -45,6 +45,8 @@ Please feel free to fork this repository and create your own reading goal :smile
 
 * ![flag](/flags/Brazil.png) [A Menina que Roubava Livros](www.buscape.com.br/a-menina-que-roubava-livros-markus-zusak-8598078174.html) - The trajectory of Liesel Meminger is told by a narrator morbid, amazingly friendly by ![flag](/flags/Australia.png) [Markus Zusak](https://twitter.com/markus_zusak)
 
+* ![flag](/flags/Brazil.png) [O Código Élfico](www.buscape.com.br/o-codigo-elfico-leonel-caldela-8577343421.html) - The small town of Santo Ossário hides many secrets. by ![flag](/flags/Brazil.png) [Leonel Caldela](https://twitter.com/leonelcaldela)
+
 * ![flag](/flags/Brazil.png) [O Espadachim de Carvão](www.buscape.com.br/o-espadachim-de-carvao-affonso-solano-8577343340.html) - Son of one of the four gods of Kurgala, Adapak lives with his father in their sacred island, away and worshiped by the different species in the world by ![flag](/flags/Brazil.png) [Affonso Solano](https://twitter.com/affonsosolano)
 
 * ![flag](/flags/Brazil.png) [O Guia do Mochileiro das Galáxias](www.buscape.com.br/o-guia-do-mochileiro-das-galaxias-douglas-adams-8599296574.html) - The Hitchhiker's Guide to the Galaxy Vol.1 by ![flag](/flags/England.png) [Douglas Adams](http://en.wikipedia.org/wiki/Douglas_Adams)
@@ -57,8 +59,6 @@ Please feel free to fork this repository and create your own reading goal :smile
 
 
 ## Non-Technical
-
-* ![flag](/flags/Brazil.png) [Dragões de Éter - Caçadores de Bruxas]() - Nova Ether is a world protected by powerful avatars in the form of fairy-Amazons by ![flag](/flags/Brazil.png) [Raphael Draccon]()
 
 * ![flag](/flags/Brazil.png) [Mares de Sangue]() - After a brutal battle in the criminal underworld, the coup Locke Lamora and his faithful companion, Jean Tannen, fleeing his hometown by ![flag](/flags/United States of America.png) [Scott Lynch]()
 
